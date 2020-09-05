@@ -1,2 +1,2 @@
 # task_web
-maaf belum selesai, cssnya masih berantakan
+Belum selesai, cssnya masih berantakan
